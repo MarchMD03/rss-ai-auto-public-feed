@@ -3,119 +3,137 @@
   <channel>
     <title>🗞 あなたにおすすめIT記事</title>
     <link>https://marchmd03.github.io/rss-ai-auto-public-feed/personal-feed.xml</link>
-    <description>AIが選別・要約した、あなた向けのITニュース（あなたにおすすめ／最近の作業に関連）</description>
-    <lastBuildDate>Sat, 20 Jun 2026 18:00:00 +0900</lastBuildDate>
+    <description>Claude Codeがキュレーションした今日のITおすすめ記事</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 20 Jun 2026 21:40:04 +0900</lastBuildDate>
 
     <item>
-      <title>「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」AI時代に再定義されるエンジニアの基礎と現場の常識</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</link>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</guid>
-      <description><![CDATA[AI診断が当たり前になっても「何を問うか・どこを見るか」の思考力は不変だと現場エンジニアが指摘。LinuxとCLIの基礎を巡る議論を整理。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <title>Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
+      <link>https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</link>
+      <guid isPermaLink="true">https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Microsoft 365 Copilotの「Copilot Cowork」が一般提供開始。実行タスクごとに従量課金が発生し、複雑なタスクで1000円超のコストがかかる可能性があり、費用意識が重要に。]]></description>
     </item>
 
     <item>
-      <title>「AIが自らを作る」と予言した8日後、Claude Fable 5は消えた</title>
-      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html</link>
-      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html</guid>
-      <description><![CDATA[Anthropicが「AIが自らを作る」論文を公開した8日後、輸出管理指令によりClaude Fable 5へのアクセスが全世界で停止。AIの再帰的自己改善の加速と社会的監督の不十分性という課題が浮き彫りになった。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <title>AI駆動開発における図の自動生成スキル集</title>
+      <link>https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</link>
+      <guid isPermaLink="true">https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[draw.ioの生成スキルでAIが描く図の「それっぽいが使えない」問題を解決。色ルール・矢印・凡例などのシニア暗黙知をスキルとして明文化し、システム構成図やER図を高品質で自動生成。]]></description>
     </item>
 
     <item>
-      <title>ChatGPTに新機能「Scheduled tasks」</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/18/news099.html</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/18/news099.html</guid>
-      <description><![CDATA[ChatGPTが指定時刻に自動実行する「Scheduled tasks」機能を追加。定期タスクのAI委任が標準化へ進む動き。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <title>Claude Codeの新機能Artifactsで、AIに作らせたHTMLドキュメントを爆速共有！</title>
+      <link>https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</link>
+      <guid isPermaLink="true">https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Claude CodeがHTMLをclaude.ai上のURLで公開・共有できる「Artifacts」機能を追加。Team/Enterprise向けで組織内共有が可能に。]]></description>
     </item>
 
     <item>
-      <title>macOS版CodexアプリにワークフローのRecord&amp;Replay機能が登場</title>
+      <title>Claude Code × Figma MCPで作る"自分専用AIエージェントチーム" 第1話：環境構築を自動化して、爆速フロント開発の土台を整えるまで</title>
+      <link>https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</link>
+      <guid isPermaLink="true">https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[複数プロジェクトのデザイントークンをClaude CodeのSkillで自動統一。FigmaとMCPを活用し、デザインと実装の乖離を防ぐ5段階フローを構築した実践記録。]]></description>
+    </item>
+
+    <item>
+      <title>AIコーディングをシニアエンジニアに変える「Agent Skills」</title>
+      <link>https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</link>
+      <guid isPermaLink="true">https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Googleエンジニア開発の「agent-skills」24スキルセットを活用し、AIコーディングツールの出力品質を本番レベルに引き上げる実践的な方法論。]]></description>
+    </item>
+
+    <item>
+      <title>WASI 0.3が正式版に。WebAssembly Componentの非同期処理が共通基盤に</title>
+      <link>https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[ByteCode AllianceがWASI 0.3を発表。コンポーネント群全体で1つのイベントループを共有する設計により、WebAssemblyコンポーネント間の非同期処理が統一された。]]></description>
+    </item>
+
+    <item>
+      <title>2027年までにAIエージェントでコーディングを行うチームの65％が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想</title>
+      <link>https://www.publickey1.jp/blog/26/2027ai65ide.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/2027ai65ide.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[ガートナー予測: 2027年までにエージェント型コーディングを使うチームの65%超がIDEを必須とは考えなくなる。Claude CodeなどIDE非依存AIエージェントが開発ライフサイクルを変革。]]></description>
+    </item>
+
+    <item>
+      <title>macOS版Codexアプリにワークフローの"録画・再生"機能が登場</title>
       <link>https://gihyo.jp/article/2026/06/codex-record-and-replay</link>
       <guid isPermaLink="true">https://gihyo.jp/article/2026/06/codex-record-and-replay</guid>
-      <description><![CDATA[macOS版CodexアプリでAI操作フローの録画・再生機能が追加。繰り返し作業を記録して自動実行するアプローチはRoutineの自動化思想と同じ流れ。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[OpenAIが2026年6月18日リリースのCodexに「Record & Replay」機能を追加。ユーザーが実演したワークフローを再利用可能なスキルに自動変換し、反復タスクを効率化。]]></description>
     </item>
 
     <item>
-      <title>Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks刷新・capability パーミッション</title>
-      <link>https://zenn.dev/aws_japan/articles/36e23635add477</link>
-      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/36e23635add477</guid>
-      <description><![CDATA[AWSのAI開発環境「Kiro」CLI v3で仕様駆動開発・hooks・capability権限管理が刷新。仕様書からコードを自動生成するフローを詳解。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>LLMはmdファイル全体を読んでいる必要はない — md2idxでトークン80〜98%削減</title>
-      <link>https://zenn.dev/oubakiou/articles/b9db61885cd7be</link>
-      <guid isPermaLink="true">https://zenn.dev/oubakiou/articles/b9db61885cd7be</guid>
-      <description><![CDATA[「md2idx」を使いLLMエージェントが大規模なMarkdownファイルの必要セクションのみを抽出できるようになり、トークン消費量を80〜98%削減できる。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>Claude DesignがClaude appに対応</title>
-      <link>https://zenn.dev/91works/articles/bb03f5adb45dea</link>
-      <guid isPermaLink="true">https://zenn.dev/91works/articles/bb03f5adb45dea</guid>
-      <description><![CDATA[Claude DesignがClaudeアプリに対応し、Figmaとの連携によりAIデザインから実装まで一気通貫で進む環境が実現。提案資料作成やサイトリデザインが実用的に行えることを確認。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>【Eve】AIエージェントは「ディレクトリ」になる — Vercel発のエージェントフレームワークを触ってみた</title>
-      <link>https://zenn.dev/sc30gsw/articles/a03d6a17af036c</link>
-      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/a03d6a17af036c</guid>
-      <description><![CDATA[Vercel発のAIエージェントフレームワーク「Eve」の実機試用レポート。エージェントがディレクトリ単位で機能を持ち組み合わせて動作する設計思想を解説。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>JiraとCursorが連携可能に ほか今週のソフトウェアアップデート</title>
+      <title>プロジェクト管理・課題管理ツール「Jira」と「Cursor」が連携可能に</title>
       <link>https://forest.watch.impress.co.jp/docs/digest/2118701.html</link>
       <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/digest/2118701.html</guid>
-      <description><![CDATA[JiraとCursorが連携可能になり、プロジェクト管理のワークフローをAIネイティブな開発環境に直接割り当てられるように。セキュリティ情報も含む今週のアップデートまとめ。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[JiraとAIネイティブなコードエディタCursorが連携。Jiraから直接Cursorにワークフローを割り当て可能になり、タスク管理と開発環境が統合された。]]></description>
     </item>
 
     <item>
-      <title>AIに任せる設計、人間に残る設計</title>
-      <link>https://zenn.dev/dress_code/articles/832cc1733e992c</link>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/832cc1733e992c</guid>
-      <description><![CDATA[AIが得意な部分（パターン適用・候補生成）と人間が持つべき部分（要件定義・トレードオフ判断）の境界線を整理した実践的考察。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
-    </item>
+      <title>無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2118402.html</link>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2118402.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[MicrosoftのコーディングAI「MAI-Code-1-Flash」の提供範囲を拡充。VS Code、GitHub Copilot関連ツール、JetBrains IDEなど複数環境で無料プランを含む個人向けに展開中。]]></description>
 
-    <item>
-      <title>Claude DesignがClaude Codeと双方向連携</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2118061.html</link>
-      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2118061.html</guid>
-      <description><![CDATA[AnthropicがClaude Designをアップデートし、Claude Codeとの双方向連携機能を追加。デザインから実装へ、実装からデザインへのシームレスな移行が可能に。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
     </item>
 
     <item>
       <title>Claude Code に、自分が考えていそうなことを言語化してもらった</title>
       <link>https://zenn.dev/estie/articles/f90d498d21a798</link>
       <guid isPermaLink="true">https://zenn.dev/estie/articles/f90d498d21a798</guid>
-      <description><![CDATA[Claude Codeに「次に自分が考えることを言語化して」と問いかける実験から、AIを思考補助・外部化ツールとして活用する実践レポート。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[Claude Codeとの3ヶ月・717セッションの会話ログを分析し、自身のSE哲学を「出力は狭く入力は広く」など5つの原則として抽出。無意識の行動パターンが言語化された実践記録。]]></description>
     </item>
 
     <item>
-      <title>社内MCPを素早く安全に増やすための共通基盤</title>
-      <link>https://zenn.dev/tribeau/articles/0d03b4c9fdf360</link>
-      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/0d03b4c9fdf360</guid>
-      <description><![CDATA[TRIBEAU社が複数MCPの認証・認可基盤を構築し、OAuth 2.1とGoogle Workspaceを活用してトークン検証を一元化。新規MCP追加を最小限の実装で実現。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <title>LLMはマークダウンファイル全体を読んでいる。その必要はない。</title>
+      <link>https://zenn.dev/oubakiou/articles/b9db61885cd7be</link>
+      <guid isPermaLink="true">https://zenn.dev/oubakiou/articles/b9db61885cd7be</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[エージェントが大型MDファイルを全文読み込みトークンを浪費する問題に対し、md2idxで見出しインデックスを生成し「目次スキャン→セクション選択」を実装することで80〜98%のコンテキスト削減を実現。]]></description>
     </item>
 
     <item>
-      <title>Claude CodeのArtifactsで、AIに作らせたHTMLドキュメントを爆速共有！</title>
-      <link>https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</link>
-      <guid isPermaLink="true">https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</guid>
-      <description><![CDATA[Claude Code Artifactsを使いAI生成HTMLをワンクリックで共有リンク化する手法を解説。Routineの配信物や成果物共有フローに応用できる発想。]]></description>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0900</pubDate>
+      <title>Claude Design がclaudeアプリに対応</title>
+      <link>https://zenn.dev/91works/articles/bb03f5adb45dea</link>
+      <guid isPermaLink="true">https://zenn.dev/91works/articles/bb03f5adb45dea</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[Claude Designがデスクトップアプリに対応。「Make something new」で提案資料やサイトリデザインを生成、「Design systems」でコードベースからデザインドキュメントを自動生成。Figma連携で実務活用レベルに到達。]]></description>
+    </item>
+
+    <item>
+      <title>2026年版・もう古いTLS設定の見直しと推奨設定（nginx/Apache対応・コピペOK）</title>
+      <link>https://qiita.com/jiis-sasaki/items/d6739d18a8e5d2f60d08</link>
+      <guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/d6739d18a8e5d2f60d08</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[TLS1.0/1.1の無効化、TLS1.2/1.3統一、推奨暗号方式の設定、HSTS実装、OCSP Staplingなどをnginx/Apacheのコピペ可能形式で解説。SSL Labsでの評価確認方法も収録。]]></description>
+
+
     </item>
 
   </channel>
