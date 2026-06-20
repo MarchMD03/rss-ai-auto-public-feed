@@ -4,5 +4,119 @@
     <title>🗞 あなたにおすすめIT記事</title>
     <link>https://marchmd03.github.io/rss-ai-auto-public-feed/personal-feed.xml</link>
     <description>AIが選別・要約した、あなた向けのITニュース（あなたにおすすめ／最近の作業に関連）</description>
+    <lastBuildDate>Sat, 20 Jun 2026 14:34:00 +0900</lastBuildDate>
+
+    <item>
+      <title>「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」AI時代に再定義されるエンジニアの基礎と現場の常識</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</link>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</guid>
+      <description><![CDATA[AI診断が当たり前になっても「何を問うか・どこを見るか」の思考力は不変だと現場エンジニアが指摘。LinuxとCLIの基礎を巡る議論を整理。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>Claude Code に、自分が考えていそうなことを言語化してもらった</title>
+      <link>https://zenn.dev/estie/articles/f90d498d21a798</link>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/f90d498d21a798</guid>
+      <description><![CDATA[Claude Codeに「次に自分が考えることを言語化して」と問いかける実験から、AIを思考補助・外部化ツールとして活用する実践レポート。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks刷新・capability パーミッション</title>
+      <link>https://zenn.dev/aws_japan/articles/36e23635add477</link>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/36e23635add477</guid>
+      <description><![CDATA[AWSのAI開発環境「Kiro」CLI v3で仕様駆動開発・hooks・capability権限管理が刷新。仕様書からコードを自動生成するフローを詳解。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>今だから押さえておきたいソフトウェア工学のベストプラクティス</title>
+      <link>https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era</link>
+      <guid isPermaLink="true">https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era</guid>
+      <description><![CDATA[AIエージェント時代こそSOLID・疎結合の古典原則が重要になる理由を解説。LLMに渡すコードは「人間にも読みやすい」設計が精度に直結するという論点。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>【Eve】AIエージェントは「ディレクトリ」になる — Vercel発のエージェントフレームワークを触ってみた</title>
+      <link>https://zenn.dev/sc30gsw/articles/a03d6a17af036c</link>
+      <guid isPermaLink="true">https://zenn.dev/sc30gsw/articles/a03d6a17af036c</guid>
+      <description><![CDATA[Vercel発のAIエージェントフレームワーク「Eve」の実機試用レポート。エージェントがディレクトリ単位で機能を持ち組み合わせて動作する設計思想を解説。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>AIに任せる設計、人間に残る設計</title>
+      <link>https://zenn.dev/dress_code/articles/832cc1733e992c</link>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/832cc1733e992c</guid>
+      <description><![CDATA[AIが得意な部分（パターン適用・候補生成）と人間が持つべき部分（要件定義・トレードオフ判断）の境界線を整理した実践的考察。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得</title>
+      <link>https://www.itmedia.co.jp/news/articles/2606/19/news072.html</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/19/news072.html</guid>
+      <description><![CDATA[Google Geminiチームの共同プロジェクトリーダーだったノーム・シャジーア氏がOpenAIに移籍。主要AIラボ間の人材流動が加速している。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>ベテランさんが教えてくれない「クリーンアーキテクチャ」を小学生でもわかるように解説</title>
+      <link>https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b</link>
+      <guid isPermaLink="true">https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b</guid>
+      <description><![CDATA[依存関係逆転・レイヤー分離を平易な比喩で解説した入門記事。「なぜこう設計するのか」に丁寧に答えており20 stocksを集めている。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>gapに線をひきたい! gridとflexに罫線を入れられる新しいCSS</title>
+      <link>https://ics.media/entry/260618/</link>
+      <guid isPermaLink="true">https://ics.media/entry/260618/</guid>
+      <description><![CDATA[CSSのgap領域に罫線を描く column-rule / row-rule 新仕様の使い方とブラウザ対応状況を実例付きで解説。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>2026年版・もう古いTLS設定の見直しと推奨設定（nginx/Apache対応・コピペOK）</title>
+      <link>https://qiita.com/jiis-sasaki/items/d6739d18a8e5d2f60d08</link>
+      <guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/d6739d18a8e5d2f60d08</guid>
+      <description><![CDATA[TLS 1.2/1.3のベスト暗号スイート・HSTS設定を2026年版にアップデート。nginx/Apacheそのまま使える設定値を掲載した実務参照用チートシート。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:08 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>AIに「図を描いて」と頼むと"それっぽいけど使えない図"が出てくる問題を、draw.io生成スキルで倒した話</title>
+      <link>https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</link>
+      <guid isPermaLink="true">https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</guid>
+      <description><![CDATA[draw.io XMLを出力するClaude Code Skillを自作し「使えない図」問題を解決した実践記。Routineのスキル構成設計のヒントになる。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:27 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>Claude CodeのArtifactsで、AIに作らせたHTMLドキュメントを爆速共有！</title>
+      <link>https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</link>
+      <guid isPermaLink="true">https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</guid>
+      <description><![CDATA[Claude Code Artifactsを使いAI生成HTMLをワンクリックで共有リンク化する手法を解説。Routineの配信物や成果物共有フローに応用できる発想。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:27 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>AIコーディングをシニアエンジニアに変える「Agent Skills」 — SDLCへの実践的適用</title>
+      <link>https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</link>
+      <guid isPermaLink="true">https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</guid>
+      <description><![CDATA[要件→設計→実装→テスト→デプロイの各フェーズにAgent Skillsを割り当てて自動化する設計手法を紹介。Routineの各手順をSkillsとして管理する構成と対応する。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:27 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>macOS版CodexアプリにワークフローのRecord&amp;Replay機能が登場</title>
+      <link>https://gihyo.jp/article/2026/06/codex-record-and-replay</link>
+      <guid isPermaLink="true">https://gihyo.jp/article/2026/06/codex-record-and-replay</guid>
+      <description><![CDATA[macOS版CodexアプリでAI操作フローの録画・再生機能が追加。繰り返し作業を記録して自動実行するアプローチはRoutineの自動化思想と同じ流れ。]]></description>
+      <pubDate>Sat, 20 Jun 2026 14:34:27 +0900</pubDate>
+    </item>
+
   </channel>
 </rss>
