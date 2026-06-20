@@ -3,71 +3,35 @@
   <channel>
     <title>🗞 あなたにおすすめIT記事</title>
     <link>https://marchmd03.github.io/rss-ai-auto-public-feed/personal-feed.xml</link>
-    <description>Claude Codeがキュレーションした今日のITおすすめ記事</description>
+    <description>AIが選別・要約した日次ITニュース（おすすめ＋作業関連）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 21:40:04 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:41:00 +0900</lastBuildDate>
 
     <item>
-      <title>Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
-      <link>https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</link>
-      <guid isPermaLink="true">https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</guid>
+      <title>【週刊AI 特別号】Claude Fable 5、公開3日で全ユーザー停止。米政府の指示をめぐり何が起きたのか</title>
+      <link>https://chatgpt-lab.com/n/n2e3fa19494b3</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/n2e3fa19494b3</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>おすすめ</category>
-      <description><![CDATA[Microsoft 365 Copilotの「Copilot Cowork」が一般提供開始。実行タスクごとに従量課金が発生し、複雑なタスクで1000円超のコストがかかる可能性があり、費用意識が重要に。]]></description>
+      <description><![CDATA[Claude Fable 5（元米政府限定モデル「Mythos」）が一般公開後わずか3日で全ユーザーへの提供を停止。米政府からの指示をめぐるAnthropicの対応を詳報。]]></description>
     </item>
 
     <item>
-      <title>AI駆動開発における図の自動生成スキル集</title>
-      <link>https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</link>
-      <guid isPermaLink="true">https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
-      <category>おすすめ</category>
-      <description><![CDATA[draw.ioの生成スキルでAIが描く図の「それっぽいが使えない」問題を解決。色ルール・矢印・凡例などのシニア暗黙知をスキルとして明文化し、システム構成図やER図を高品質で自動生成。]]></description>
-    </item>
-
-    <item>
-      <title>Claude Codeの新機能Artifactsで、AIに作らせたHTMLドキュメントを爆速共有！</title>
-      <link>https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</link>
-      <guid isPermaLink="true">https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
-      <category>おすすめ</category>
-      <description><![CDATA[Claude CodeがHTMLをclaude.ai上のURLで公開・共有できる「Artifacts」機能を追加。Team/Enterprise向けで組織内共有が可能に。]]></description>
-    </item>
-
-    <item>
-      <title>Claude Code × Figma MCPで作る"自分専用AIエージェントチーム" 第1話：環境構築を自動化して、爆速フロント開発の土台を整えるまで</title>
-      <link>https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</link>
-      <guid isPermaLink="true">https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
-      <category>おすすめ</category>
-      <description><![CDATA[複数プロジェクトのデザイントークンをClaude CodeのSkillで自動統一。FigmaとMCPを活用し、デザインと実装の乖離を防ぐ5段階フローを構築した実践記録。]]></description>
-    </item>
-
-    <item>
-      <title>AIコーディングをシニアエンジニアに変える「Agent Skills」</title>
-      <link>https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</link>
-      <guid isPermaLink="true">https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
-      <category>おすすめ</category>
-      <description><![CDATA[Googleエンジニア開発の「agent-skills」24スキルセットを活用し、AIコーディングツールの出力品質を本番レベルに引き上げる実践的な方法論。]]></description>
-    </item>
-
-    <item>
-      <title>WASI 0.3が正式版に。WebAssembly Componentの非同期処理が共通基盤に</title>
-      <link>https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html</link>
-      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
-      <category>おすすめ</category>
-      <description><![CDATA[ByteCode AllianceがWASI 0.3を発表。コンポーネント群全体で1つのイベントループを共有する設計により、WebAssemblyコンポーネント間の非同期処理が統一された。]]></description>
-    </item>
-
-    <item>
-      <title>2027年までにAIエージェントでコーディングを行うチームの65％が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想</title>
+      <title>2027年までにAIエージェントでコーディングを行うチームの65%が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想</title>
       <link>https://www.publickey1.jp/blog/26/2027ai65ide.html</link>
       <guid isPermaLink="true">https://www.publickey1.jp/blog/26/2027ai65ide.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>おすすめ</category>
-      <description><![CDATA[ガートナー予測: 2027年までにエージェント型コーディングを使うチームの65%超がIDEを必須とは考えなくなる。Claude CodeなどIDE非依存AIエージェントが開発ライフサイクルを変革。]]></description>
+      <description><![CDATA[ガートナーが予測：AIエージェント主導の開発チームの65%が2027年までにIDEを必須と考えなくなるとのこと。AI駆動の開発スタイルへの移行が加速する見通し。]]></description>
+    </item>
+
+    <item>
+      <title>「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」　AI時代に再定義されるエンジニアの基礎と現場の常識</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</link>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[「CLIで問題を特定する」「Linuxを学ぶ」といった現場の常識がAI時代に見直されつつある実態を取材。エンジニアの基礎スキルの定義が変わりつつある現場の声を紹介。]]></description>
     </item>
 
     <item>
@@ -76,26 +40,61 @@
       <guid isPermaLink="true">https://gihyo.jp/article/2026/06/codex-record-and-replay</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>おすすめ</category>
-      <description><![CDATA[OpenAIが2026年6月18日リリースのCodexに「Record & Replay」機能を追加。ユーザーが実演したワークフローを再利用可能なスキルに自動変換し、反復タスクを効率化。]]></description>
+      <description><![CDATA[AppleのmacOS版Codexアプリに、ワークフロー操作を録画して再生できる新機能が追加。繰り返しタスクの自動化に役立てられる新機能の詳細。]]></description>
     </item>
 
     <item>
-      <title>プロジェクト管理・課題管理ツール「Jira」と「Cursor」が連携可能に</title>
-      <link>https://forest.watch.impress.co.jp/docs/digest/2118701.html</link>
-      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/digest/2118701.html</guid>
+      <title>Anthropicが3エージェント・ハーネスを設計、長時間稼働するフルスタックAI開発を支援</title>
+      <link>https://www.infoq.com/jp/news/2026/06/anthropic-three-agent-harness-ai/</link>
+      <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/06/anthropic-three-agent-harness-ai/</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>おすすめ</category>
-      <description><![CDATA[JiraとAIネイティブなコードエディタCursorが連携。Jiraから直接Cursorにワークフローを割り当て可能になり、タスク管理と開発環境が統合された。]]></description>
+      <description><![CDATA[Anthropicが長時間稼働のフルスタックAI開発を支援するため、オーケストレーター・実行・検証の3種のエージェントで構成するハーネス設計を公開。]]></description>
     </item>
 
     <item>
-      <title>無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2118402.html</link>
-      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2118402.html</guid>
+      <title>Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks 刷新・capability パーミッション</title>
+      <link>https://zenn.dev/aws_japan/articles/36e23635add477</link>
+      <guid isPermaLink="true">https://zenn.dev/aws_japan/articles/36e23635add477</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>おすすめ</category>
-      <description><![CDATA[MicrosoftのコーディングAI「MAI-Code-1-Flash」の提供範囲を拡充。VS Code、GitHub Copilot関連ツール、JetBrains IDEなど複数環境で無料プランを含む個人向けに展開中。]]></description>
+      <description><![CDATA[AWS製AIコーディングツール「Kiro」のCLI v3が登場。仕様駆動開発フローの刷新、hooksのリニューアル、capabilityパーミッション管理の強化を詳解。]]></description>
+    </item>
 
+    <item>
+      <title>Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表</title>
+      <link>https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[CloudflareがAI Gatewayに、従業員・アプリ単位でAI利用コスト上限を設定できる新機能を追加。社内AI活用のコスト管理とガバナンスが強化される。]]></description>
+    </item>
+
+    <item>
+      <title>gapに線をひきたい! gridとflexに罫線を入れられる新しいCSS</title>
+      <link>https://ics.media/entry/260618/</link>
+      <guid isPermaLink="true">https://ics.media/entry/260618/</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[CSSのgrid/flexレイアウトで要素間に視覚的な区切り線を引く新手法を解説。gapの仕組みを活かし、セパレーター実装がよりシンプルになるアプローチ。]]></description>
+    </item>
+
+    <item>
+      <title>AIで要らなくなったSaaS、要るSaaSは、どれ？　日本の「SaaS is dead」の実態</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news056.html</link>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news056.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[AI台頭でSaaS市場が再編されつつある日本の実態をレポート。業務フローの変化に伴い、代替されるSaaSと生き残るSaaSの傾向を整理。]]></description>
+    </item>
+
+    <item>
+      <title>「ログを取っているから安心」が危ない　攻撃者はクラウドログを"監視ツール"に変える</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news046.html</link>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news046.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[クラウドログを攻撃者が監視ツールとして逆用するケースが増加。「ログを取れば安心」という油断が新たな脆弱性になり得ると警告。]]></description>
     </item>
 
     <item>
@@ -104,36 +103,34 @@
       <guid isPermaLink="true">https://zenn.dev/estie/articles/f90d498d21a798</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>作業関連</category>
-      <description><![CDATA[Claude Codeとの3ヶ月・717セッションの会話ログを分析し、自身のSE哲学を「出力は狭く入力は広く」など5つの原則として抽出。無意識の行動パターンが言語化された実践記録。]]></description>
+      <description><![CDATA[EstieエンジニアがClaude Codeを使って自分の思考を言語化する試みを紹介。AIをコード生成だけでなく、思考の外部化・整理のツールとして活用した実践例。]]></description>
     </item>
 
     <item>
-      <title>LLMはマークダウンファイル全体を読んでいる。その必要はない。</title>
-      <link>https://zenn.dev/oubakiou/articles/b9db61885cd7be</link>
-      <guid isPermaLink="true">https://zenn.dev/oubakiou/articles/b9db61885cd7be</guid>
+      <title>AIに任せる設計、人間に残る設計</title>
+      <link>https://zenn.dev/dress_code/articles/832cc1733e992c</link>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/832cc1733e992c</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>作業関連</category>
-      <description><![CDATA[エージェントが大型MDファイルを全文読み込みトークンを浪費する問題に対し、md2idxで見出しインデックスを生成し「目次スキャン→セクション選択」を実装することで80〜98%のコンテキスト削減を実現。]]></description>
+      <description><![CDATA[AIと協働する設計において、何をAIに任せて何を人間が担うべきかを論じた記事。ドメイン知識・意思決定・責任の所在をどう分けるかという設計思想を整理。]]></description>
     </item>
 
     <item>
-      <title>Claude Design がclaudeアプリに対応</title>
-      <link>https://zenn.dev/91works/articles/bb03f5adb45dea</link>
-      <guid isPermaLink="true">https://zenn.dev/91works/articles/bb03f5adb45dea</guid>
+      <title>Claude Code × Figma MCPで作る"自分専用AIエージェントチーム" 第1話：環境構築を自動化して、爆速化</title>
+      <link>https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</link>
+      <guid isPermaLink="true">https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>作業関連</category>
-      <description><![CDATA[Claude Designがデスクトップアプリに対応。「Make something new」で提案資料やサイトリデザインを生成、「Design systems」でコードベースからデザインドキュメントを自動生成。Figma連携で実務活用レベルに到達。]]></description>
+      <description><![CDATA[Claude CodeとFigma MCPを連携させ、Figmaデザインからコードを自動生成する「自分専用AIエージェントチーム」の構築記 第1話。環境構築の自動化手順を紹介。]]></description>
     </item>
 
     <item>
-      <title>2026年版・もう古いTLS設定の見直しと推奨設定（nginx/Apache対応・コピペOK）</title>
-      <link>https://qiita.com/jiis-sasaki/items/d6739d18a8e5d2f60d08</link>
-      <guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/d6739d18a8e5d2f60d08</guid>
+      <title>AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用</title>
+      <link>https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</link>
+      <guid isPermaLink="true">https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0900</pubDate>
       <category>作業関連</category>
-      <description><![CDATA[TLS1.0/1.1の無効化、TLS1.2/1.3統一、推奨暗号方式の設定、HSTS実装、OCSP Staplingなどをnginx/Apacheのコピペ可能形式で解説。SSL Labsでの評価確認方法も収録。]]></description>
-
-
+      <description><![CDATA[要件定義・設計・実装・テストなどSDLCの各フェーズにAIの「Agent Skills」を組み込む実践ガイド。コーディング補助にとどまらず、シニアエンジニア相当の判断をAIに持たせる設計論。]]></description>
     </item>
 
   </channel>
