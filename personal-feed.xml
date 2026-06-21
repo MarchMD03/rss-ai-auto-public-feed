@@ -1,98 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>🗞️ あなたにおすすめIT記事</title>
+    <title>🗞 あなたにおすすめIT記事</title>
     <link>https://marchmd03.github.io/rss-ai-auto-public-feed/personal-feed.xml</link>
-    <description>AIが選別・要約した日本のITニュース（あなたにおすすめ＋最近の作業に関連）</description>
+    <description>AIが選別・要約した日次ITニュース（あなたにおすすめ＋最近の作業に関連）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 10:23:50 +0900</lastBuildDate>
-  <item>
-    <title>仕事が劇的に捗るClaudeの隠れた実力派ツール10選</title>
-    <link>https://www.lifehacker.jp/article/2606-10-hacks-every-claude-user-should-know/</link>
-    <guid isPermaLink="true">https://www.lifehacker.jp/article/2606-10-hacks-every-claude-user-should-know/</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[プロジェクト機能・カスタム命令・アーティファクトなど、知らないと損するClaude実力派機能10選を実用目線で解説。]]></description>
-  </item>
-  <item>
-    <title>コーディングエージェントを「ループ」で動かす — もう一段自動化したい人のための設計入門</title>
-    <link>https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</link>
-    <guid isPermaLink="true">https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[AIエージェントを反復ループで制御し、タスクが完了するまで自律的に動かす設計パターンを解説した実践入門。]]></description>
-  </item>
-  <item>
-    <title>入門から実践 - ループエンジニアリング</title>
-    <link>https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8</link>
-    <guid isPermaLink="true">https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[LLMを使った反復ループ処理の実装パターンを、入門から応用まで体系的にまとめた実践ガイド。]]></description>
-  </item>
-  <item>
-    <title>ターミナルにAIエンジニアが来た：Codex CLI 完全入門ガイド</title>
-    <link>https://qiita.com/lhjjjk4/items/5ba0e9330cdb3c16b8c8</link>
-    <guid isPermaLink="true">https://qiita.com/lhjjjk4/items/5ba0e9330cdb3c16b8c8</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[OpenAI Codex CLIのセットアップから実践的な活用方法まで網羅した、初心者向け完全入門ガイド。]]></description>
-  </item>
-  <item>
-    <title>ケイラボAIラジオ Windows版開発記 — 設計さえ正しければ、移植はAIの独壇場だった</title>
-    <link>https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e</link>
-    <guid isPermaLink="true">https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[既存のAIラジオアプリをWindows向けにAI全面活用で移植した開発体験レポート。設計の重要性を実感した記録。]]></description>
-  </item>
-  <item>
-    <title>AI エージェントフレームワーク eve を試してみた</title>
-    <link>https://azukiazusa.dev/blog/ai-agent-framework-eve/</link>
-    <guid isPermaLink="true">https://azukiazusa.dev/blog/ai-agent-framework-eve/</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[ブラウザ上でAIエージェントをビジュアルに組み立てられるフレームワーク「eve」の機能と使い勝手を実際に検証。]]></description>
-  </item>
-  <item>
-    <title>「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識</title>
-    <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</link>
-    <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[AI活用が前提となった現場でエンジニアに求められる基礎スキルと常識の変化を、現役エンジニアが語る。]]></description>
-  </item>
-  <item>
-    <title>Gemma 4が完全無料で商用OKな理由——Googleのオープン戦略を解説</title>
-    <link>https://qiita.com/kinamocchi_tech/items/b5f97cc34260bf59c539</link>
-    <guid isPermaLink="true">https://qiita.com/kinamocchi_tech/items/b5f97cc34260bf59c539</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[GoogleがGemma 4を商用利用可能な完全無料モデルとして公開した背景と、オープンソース戦略の狙いを解説。]]></description>
-  </item>
-  <item>
-    <title>Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法</title>
-    <link>https://zenn.dev/sta/articles/2026-06-20-vscode-scb</link>
-    <guid isPermaLink="true">https://zenn.dev/sta/articles/2026-06-20-vscode-scb</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>おすすめ</category>
-    <description><![CDATA[VSCode拡張「vscode-scb」でCosense（旧Scrapbox）記法を使ったノート編集が可能に。Obsidianより軽快なアウトライン編集を紹介。]]></description>
-  </item>
-  <item>
-    <title>Claude Codeをどのようにキャッチアップしているか</title>
-    <link>https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka</link>
-    <guid isPermaLink="true">https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>作業関連</category>
-    <description><![CDATA[急速に進化するClaude Codeの情報収集・活用方法について、実践者がまとめたスライド資料。]]></description>
-  </item>
-  <item>
-    <title>捨てるつもりで作ったシステムが、本稼働している — 自治体がVibe Codingで書かない窓口を内製しOSSとして公開するまで</title>
-    <link>https://note.com/memuro_dx_oss/n/nf982351d30ef</link>
-    <guid isPermaLink="true">https://note.com/memuro_dx_oss/n/nf982351d30ef</guid>
-    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
-    <category>作業関連</category>
-    <description><![CDATA[北海道芽室町がVibe Codingで申請窓口システムを内製・本番稼働させ、OSSとして公開した実践レポート。]]></description>
-  </item>
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0900</lastBuildDate>
+
+    <item>
+      <title>Claude Code PreToolUseフックで操作ログを自動保存する</title>
+      <link>https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130</link>
+      <guid isPermaLink="true">https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Claude CodeのPreToolUseフックを使い、全ツール呼び出しをJSONログとして自動保存する実装例。監査証跡の確保や操作履歴のデバッグに即活用できる。]]></description>
+    </item>
+
+    <item>
+      <title>Flue Framework実践入門—Cloudflare Durable ObjectsでAIエージェントを構築する</title>
+      <link>https://zenn.dev/417/books/flue-framework-guide</link>
+      <guid isPermaLink="true">https://zenn.dev/417/books/flue-framework-guide</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[CloudflareのDurable Objects上でAIエージェントを構築するFlue Frameworkの入門書。Workers AI・R2・D1を組み合わせたエージェントループの設計パターンを解説。]]></description>
+    </item>
+
+    <item>
+      <title>LLMはMarkdownの構造全体を読んでいる—プロンプト最適化のヒント</title>
+      <link>https://zenn.dev/oubakiou/articles/b9db61885cd7be</link>
+      <guid isPermaLink="true">https://zenn.dev/oubakiou/articles/b9db61885cd7be</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[LLMへのプロンプトにMarkdownを使う際、見出し・箇条書き・コードブロックの構造がどう解釈されるかを検証。効果的なコンテキスト設計のヒントが得られる。]]></description>
+    </item>
+
+    <item>
+      <title>GitHub CopilotのAIクレジット消費を自動監視する</title>
+      <link>https://zenn.dev/headwaters/articles/github-copilot-ai-credits-usage-metrics-2026</link>
+      <guid isPermaLink="true">https://zenn.dev/headwaters/articles/github-copilot-ai-credits-usage-metrics-2026</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[GitHub Copilotの従量クレジット消費をAPIで取得し、予算超過をSlack通知する自動化構成。GitHub Actionsで実装する手順を解説。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Code Artifactsを爆速で共有する</title>
+      <link>https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</link>
+      <guid isPermaLink="true">https://qiita.com/popo-lus/items/3f9f1a4eb7109544637a</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Claude CodeのArtifacts機能を活用して、生成したUIコンポーネントやスクリプトを即座に共有・確認する方法。チームへのデモや成果物の共有速度を大幅に短縮できる。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Codeでチーム開発ルールを自動化する</title>
+      <link>https://qiita.com/rairaii/items/a1b622ff1faf4ca34231</link>
+      <guid isPermaLink="true">https://qiita.com/rairaii/items/a1b622ff1faf4ca34231</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[CLAUDE.mdとhooksを組み合わせ、チームのコーディング規約やコミットルールをClaude Codeに自動適用させる設定方法。プロジェクト固有のガイドラインをAIに守らせる実践例。]]></description>
+    </item>
+
+    <item>
+      <title>コーディングエージェントをループで動かす設計</title>
+      <link>https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</link>
+      <guid isPermaLink="true">https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Claude CodeなどのコーディングエージェントをCIのような反復ループで実行し、自動テスト→修正→再実行を回す構成。エージェント自律化の設計思想を解説。]]></description>
+    </item>
+
+    <item>
+      <title>CloudflareがVoidZeroを買収—Vite・Rolldown・AstroがCloudflareインフラと統合へ</title>
+      <link>https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[CloudflareがVite・Rolldownの開発元VoidZeroを買収。Cloudflare PagesとViteのシームレスな統合と、Astroやフロントエンドビルドツールのインフラ強化が期待される。]]></description>
+    </item>
+
+    <item>
+      <title>Cloudflare AI GatewayにLLMコスト上限（spend limits）機能が追加</title>
+      <link>https://blog.cloudflare.com/ai-gateway-spend-limits/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/ai-gateway-spend-limits/</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Cloudflare AI GatewayにAPIコスト上限設定機能が追加。日次・月次の予算キャップを設定してOpenAI/Anthropicなど各LLMプロバイダーへのコストを自動制御できる。]]></description>
+    </item>
+
+    <item>
+      <title>Codexアプリにコーディングセッションの録画・再生機能が追加</title>
+      <link>https://gihyo.jp/article/2026/06/codex-record-and-replay</link>
+      <guid isPermaLink="true">https://gihyo.jp/article/2026/06/codex-record-and-replay</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[OpenAI Codexアプリにコーディングセッションの録画・再生機能が追加。AIのコーディングプロセスを後から確認・共有でき、デバッグや教育に活用できる。]]></description>
+    </item>
+
+    <item>
+      <title>Notion Workers—NotionにAIエージェント実行基盤が登場</title>
+      <link>https://chatgpt-lab.com/n/n7e6450e05407</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/n7e6450e05407</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Notionがエージェント実行基盤「Notion Workers」を発表。Notion上でAIエージェントをトリガー・実行する仕組みで、自動化・PKM連携の可能性が広がる。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Code Dynamic Workflows検証—エージェントが実行時にステップを生成する</title>
+      <link>https://chatgpt-lab.com/n/nb31ebfac8cbc</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/nb31ebfac8cbc</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Claude CodeのDynamic Workflows機能の動作検証レポート。複雑なタスクへの適用方法と現状の制約が明確にまとめられており、実運用への応用指針が得られる。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Code automodeの内側—自律コーディングシステムの仕組みを解説</title>
+      <link>https://www.infoq.com/jp/news/2026/06/anthropic-claude-code-auto-mode/</link>
+      <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/06/anthropic-claude-code-auto-mode/</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[AnthropicのClaude Code automodeの内部アーキテクチャを解説。タスク分解・ツール選択・反省ループがどう実装されているかの技術的な詳細記事。]]></description>
+    </item>
+
+    <item>
+      <title>JiraとCursorを連携してチケットからコード修正を直接始める</title>
+      <link>https://forest.watch.impress.co.jp/docs/digest/2118701.html</link>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/digest/2118701.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[JiraとCursorエディタを連携させ、JiraチケットからCursorでコード修正を直接開始するワークフロー。タスク管理とAIコーディングを一本化する実用ガイド。]]></description>
+    </item>
+
+    <item>
+      <title>AI以後の受託システム開発（2026年6月版）</title>
+      <link>https://zenn.dev/terurou/articles/eb9e7a4ca7b364</link>
+      <guid isPermaLink="true">https://zenn.dev/terurou/articles/eb9e7a4ca7b364</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[AI活用が当たり前になった2026年の受託開発現場の実態レポート。見積もり・要件定義・テストの変化と、エンジニアの役割シフトについて具体的に論じている。]]></description>
+    </item>
+
+    <item>
+      <title>Apple container 1.0正式リリース—Dockerとの違いと開発ワークフローへの影響</title>
+      <link>https://zenn.dev/tokium_dev/articles/202c16adec91d0</link>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/202c16adec91d0</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[AppleがmacOS向け軽量コンテナツール「container 1.0」を正式リリース。Dockerとの違い・Apple Silicon最適化・開発ワークフローへの影響を比較解説。]]></description>
+    </item>
+
+    <item>
+      <title>Ollamaでローカルから月額0円のLLM環境を構築する</title>
+      <link>https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226</link>
+      <guid isPermaLink="true">https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Ollamaを使ってローカルPCでLLMを完全無料運用する手順。API費用ゼロでプライベートAI環境を構築したい個人開発者向けの導入ガイド。]]></description>
+    </item>
+
+    <item>
+      <title>GitHub Copilot Coworkの従量課金—コスト試算とリスク対策</title>
+      <link>https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</link>
+      <guid isPermaLink="true">https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[GitHub Copilot Coworkの従量課金モデルの詳細と実際の使用量コスト試算。エージェントモードの長時間利用で想定外の請求が来るリスクと対策を解説。]]></description>
+    </item>
+
+    <item>
+      <title>2027年にAIエージェントでIDEの65%が不要に（Gartner予測）</title>
+      <link>https://www.publickey1.jp/blog/26/2027ai65ide.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/2027ai65ide.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Gartnerが「2027年までにAIエージェントの普及でIDEの65%が不要になる」と予測。開発者ツール市場の変化とこれからのスキル戦略を考えるうえで押さえるべきレポート。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Fable 5停止特別号—廃止スケジュールと移行先</title>
+      <link>https://chatgpt-lab.com/n/n2e3fa19494b3</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/n2e3fa19494b3</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[AnthropicがClaude Fable 5の停止・移行に関するアナウンスをした件の特集。廃止スケジュールと移行先推奨モデル、APIへの影響をまとめた速報記事。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Opus 4.8検証—effortパラメータが品質と速度の鍵</title>
+      <link>https://chatgpt-lab.com/n/n3bced9e1a643</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/n3bced9e1a643</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Claude Opus 4.8のeffortパラメータ（low/medium/high）が出力品質と速度に与える影響を実測検証。コスト最適化のためのeffort設定指針が得られる。]]></description>
+    </item>
+
+    <item>
+      <title>Node.js 12件の脆弱性を修正（v22.23.0等）</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2118394.html</link>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2118394.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[Node.js v22.23.0をはじめ複数バージョンで12件のセキュリティ脆弱性が修正。本番環境のバージョンアップ優先度を判断するための脆弱性内容まとめ。]]></description>
+    </item>
+
+    <item>
+      <title>AIに慣れた若手はLinuxを学べ—CLIは古くなるという問題提起</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</link>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[AI時代においてCLI操作の重要性が低下しつつある現状を論じた記事。若手エンジニアがLinuxの仕組みを学ぶ理由とAIとの向き合い方を提言している。]]></description>
+    </item>
+
+    <item>
+      <title>gapに線を引く—grid/flexboxの区切り線を新CSS手法で実現</title>
+      <link>https://ics.media/entry/260618/</link>
+      <guid isPermaLink="true">https://ics.media/entry/260618/</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[CSSのgapプロパティを持つgrid/flexboxで区切り線を表現する新手法の解説。CSS column-rule/row-rule仕様と現実的なworkaroundをまとめた実装記事。]]></description>
+    </item>
+
+    <item>
+      <title>WASI 0.3正式版—WebAssembly Componentの非同期が標準化</title>
+      <link>https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>おすすめ</category>
+      <description><![CDATA[WebAssembly System Interface（WASI）0.3が正式リリース。非同期ストリームとPromiseの標準化により、Wasmコンポーネントがサーバーサイド・エッジ環境で実用的に使えるフェーズへ。]]></description>
+    </item>
+
+    <item>
+      <title>Claude Codeに自分が考えていそうなことを言語化する</title>
+      <link>https://zenn.dev/estie/articles/f90d498d21a798</link>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/f90d498d21a798</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[estieの開発者がClaude Codeを使う中で「AIが考えていることの透明化」を試みたドキュメント整備の実践例。CLAUDE.mdの設計思想と合わせて読むと参考になる。]]></description>
+    </item>
+
+    <item>
+      <title>週刊AI #70: AnthropicコードをClaudeで作成＋停止選択肢</title>
+      <link>https://chatgpt-lab.com/n/nec3bfa81be48</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/nec3bfa81be48</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[AnthropicがClaudeを使って自社コードの一部を生成している実態と、ユーザーへの「停止オプション」提供に関するアップデートをまとめた週刊AIニュース第70号。]]></description>
+    </item>
+
+    <item>
+      <title>M5 ProローカルClaude Code vs Claude Opus比較</title>
+      <link>https://chatgpt-lab.com/n/ndb44053f3706</link>
+      <guid isPermaLink="true">https://chatgpt-lab.com/n/ndb44053f3706</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0900</pubDate>
+      <category>作業関連</category>
+      <description><![CDATA[Apple M5 Pro MacBookでローカルLLMとClaude Code（Opus）を比較実測。ローカル実行のコスト優位性とOpusの精度差が数値で示されており、環境選択の参考になる。]]></description>
+    </item>
+
   </channel>
 </rss>
