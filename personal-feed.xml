@@ -1,199 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>rss-ai-auto personal feed</title>
+    <title>🗞️ あなたにおすすめIT記事</title>
     <link>https://marchmd03.github.io/rss-ai-auto-public-feed/personal-feed.xml</link>
-    <description>AIが選別・要約した今日のおすすめITニュース</description>
+    <description>AIが選別・要約した日本のITニュース（あなたにおすすめ＋最近の作業に関連）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 09:37:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:23:50 +0900</lastBuildDate>
   <item>
-    <title>Announcing Claude Managed Agents on Cloudflare</title>
-    <link>https://blog.cloudflare.com/claude-managed-agents/</link>
-    <guid>https://blog.cloudflare.com/claude-managed-agents/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Cloudflare Workers上でClaudeがエージェントとして直接動作する新機能。MCP・ツール呼び出し・会話履歴管理をCloudflareインフラで完結できる。AIエージェント開発の新定番になりそうな重要発表。</description>
-  </item>
-  <item>
-    <title>Announcing Claude Compliance API support with Cloudflare CASB</title>
-    <link>https://blog.cloudflare.com/casb-anthropic-integration/</link>
-    <guid>https://blog.cloudflare.com/casb-anthropic-integration/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>CloudflareのCASBとClaude Compliance APIを統合。SaaS利用のデータ検査・ポリシー適用にClaudeのAI分析力を活用できる。企業向けセキュリティ×Claudeの組み合わせが実現。</description>
-  </item>
-  <item>
-    <title>Your AI bill is out of control. Cloudflare can fix it now.</title>
-    <link>https://blog.cloudflare.com/ai-gateway-spend-limits/</link>
-    <guid>https://blog.cloudflare.com/ai-gateway-spend-limits/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Cloudflare AI Gatewayにスペンドリミット機能を追加。モデル・ユーザーごとのコスト上限をリアルタイム制御できる。AI APIコストの暴走を防ぐ実用的な機能。</description>
-  </item>
-  <item>
-    <title>VoidZero is joining Cloudflare</title>
-    <link>https://blog.cloudflare.com/voidzero-joins-cloudflare/</link>
-    <guid>https://blog.cloudflare.com/voidzero-joins-cloudflare/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Vite・Rolldownの開発元VoidZeroがCloudflareに参画。Vite・AstroがCloudflareエコシステムの傘下に。フロントエンドビルドチェーンとエッジ実行がより深く統合される見通し。</description>
-  </item>
-  <item>
-    <title>Claude Codeオートモードの内側：人間承認ゲートを備えたAnthropicの自律コーディングシステム</title>
-    <link>https://www.infoq.com/jp/news/2026/06/anthropic-claude-code-auto-mode/</link>
-    <guid>https://www.infoq.com/jp/news/2026/06/anthropic-claude-code-auto-mode/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Claude Codeのオートモードが人間の承認ゲートをどう設計しているかを詳解。リスクレベル別の承認フロー・ツール実行モデルが明らかになる。Claude Code実装の参考に。</description>
-  </item>
-  <item>
-    <title>How we built Cloudflare's data platform and an AI agent on top of it</title>
-    <link>https://blog.cloudflare.com/our-unified-data-platform/</link>
-    <guid>https://blog.cloudflare.com/our-unified-data-platform/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>CloudflareがClickHouse+Iceberg+Drizzleで構築した統一データ基盤と、その上で動かすAIエージェントの実装詳解。エージェントがデータ基盤を活用する実践例として必読。</description>
-  </item>
-  <item>
-    <title>Notion Workersとは？ NotionにAIエージェントの実行基盤を持ち込む新機能</title>
-    <link>https://chatgpt-lab.com/n/n7e6450e05407</link>
-    <guid>https://chatgpt-lab.com/n/n7e6450e05407</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Notionが発表したWorkers機能。Notionページ・データベースをトリガー/データソースとしてAIエージェントを直接実行できる。Notion×Claude Code連携の新しい選択肢。</description>
-  </item>
-  <item>
-    <title>Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供</title>
-    <link>https://gihyo.jp/article/2026/06/uv-audit-preview</link>
-    <guid>https://gihyo.jp/article/2026/06/uv-audit-preview</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>uvに uv audit コマンドが追加。依存パッケージの脆弱性をワンコマンドで確認できる。pip auditの代替として実用的なセキュリティ機能。</description>
-  </item>
-  <item>
-    <title>MDN、MCPサーバーを提供開始</title>
-    <link>https://gihyo.jp/article/2026/06/mdn-mcp-server</link>
-    <guid>https://gihyo.jp/article/2026/06/mdn-mcp-server</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>MDNがMCP（Model Context Protocol）サーバーを正式提供開始。Claude CodeなどのAIエージェントがMDNのWebドキュメントを直接参照できる。Web API参照精度の向上に直結。</description>
-  </item>
-  <item>
-    <title>Route public traffic to private applications with Cloudflare</title>
-    <link>https://blog.cloudflare.com/private-origins-dns-routing/</link>
-    <guid>https://blog.cloudflare.com/private-origins-dns-routing/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Cloudflare経由でパブリックIPなしのプライベートアプリにルーティングできる新機能。DNS設定だけでオリジンを隠蔽しつつ公開できる。セキュアな公開設計の新選択肢。</description>
-  </item>
-  <item>
-    <title>Codex Sites登場。社内WebアプリをCodexから作って共有する方法</title>
-    <link>https://chatgpt-lab.com/n/nbc33eec6e38f</link>
-    <guid>https://chatgpt-lab.com/n/nbc33eec6e38f</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>OpenAI CodexからWebアプリを生成・URL共有できるCodex Sites機能。チームでの即利用が可能で、社内ツール作成の敷居が大幅に下がる。</description>
-  </item>
-  <item>
-    <title>Claude Opus 4.8 を検証。公式は「控えめな改善」、鍵は effort（労力）設定</title>
-    <link>https://chatgpt-lab.com/n/n3bced9e1a643</link>
-    <guid>https://chatgpt-lab.com/n/n3bced9e1a643</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Claude Opus 4.8の実力を独自検証。effortパラメータが精度・コスト・レスポンス速度に与える影響を分析。使い分けの判断基準として参考に。</description>
-  </item>
-  <item>
-    <title>Anthropic、Claude Fable 5／Mythos 5へのアクセスを停止、米政府の輸出管理指示で全ユーザーに影響</title>
-    <link>https://gihyo.jp/article/2026/06/suspend-access-to-fable-5-and-mythos-5</link>
-    <guid>https://gihyo.jp/article/2026/06/suspend-access-to-fable-5-and-mythos-5</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>米政府の輸出管理指示によりClaude Fable 5・Mythos 5のアクセスが全ユーザー向けに停止。Claude 3.7系などへのフォールバックが必要になるケースも。</description>
-  </item>
-  <item>
-    <title>SpaceX、Cursorを買収するオプションを行使。CursorはGitホスティング「Origin」も予告</title>
-    <link>https://gihyo.jp/article/2026/06/spacex-cursor-acquisition-option</link>
-    <guid>https://gihyo.jp/article/2026/06/spacex-cursor-acquisition-option</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>SpaceXがAIコーディングエディタCursorを正式買収。さらにCursor自身がGitホスティング「Origin」の開発も予告。開発ツール業界の再編が加速。</description>
-  </item>
-  <item>
-    <title>npm v12でnpm installのデフォルト動作を変更へ、スクリプト実行やGit・リモートURL依存を明示許可制に</title>
-    <link>https://gihyo.jp/article/2026/06/npm-v12-install-opt-in</link>
-    <guid>https://gihyo.jp/article/2026/06/npm-v12-install-opt-in</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>npm v12からinstall時のスクリプト実行・Gitリポジトリ依存がデフォルト無効化される予定。サプライチェーン攻撃対策の強化。package.jsonの見直しが必要になるケースがある。</description>
-  </item>
-  <item>
-    <title>【週刊AI #70】Anthropic、コードの8割をClaudeで作成</title>
-    <link>https://chatgpt-lab.com/n/nec3bfa81be48</link>
-    <guid>https://chatgpt-lab.com/n/nec3bfa81be48</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Anthropicが自社コードの約80%をClaudeで生成していると報告。「AIがAIを作る」時代の象徴的なレポート。一時停止の検討についても触れられている。</description>
-  </item>
-  <item>
-    <title>GPT-5.5に29点差。政府限定だった「Mythos」がClaude Fable 5として解禁【独自検証】</title>
-    <link>https://chatgpt-lab.com/n/ncdfe71830759</link>
-    <guid>https://chatgpt-lab.com/n/ncdfe71830759</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Mythosモデルが一般向けにClaude Fable 5として提供開始。GPT-5.5との性能差を独自ベンチマークで検証。停止前の記録として価値ある比較資料。</description>
-  </item>
-  <item>
-    <title>マイクロソフト、自社開発した7つのAIモデル「Microsoft AI Models」を発表</title>
-    <link>https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html</link>
-    <guid>https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>MicrosoftがAnthropicやOpenAI依存から脱却する独自AIモデル群を発表。コーディング・推論・マルチモーダル特化など7種。エンタープライズAIの選択肢が広がる。</description>
-  </item>
-  <item>
-    <title>GitHub社、Free・Pro・Pro+ユーザーのCopilotインタラクションデータをAIモデルトレーニングに使用する方針</title>
-    <link>https://www.infoq.com/jp/news/2026/06/github-copilot-training-data/</link>
-    <guid>https://www.infoq.com/jp/news/2026/06/github-copilot-training-data/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>GitHubが無料・有料プランのCopilot利用データをモデル学習に活用する方針を発表。プライベートリポジトリへの影響範囲・オプトアウト手順を要確認。</description>
-  </item>
-  <item>
-    <title>Microsoft Execution Containers（MXC）発表：AIエージェントのためのカスタマイズ可能な分離環境</title>
-    <link>https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html</link>
-    <guid>https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>MicrosoftがAIエージェント専用の分離実行コンテナを発表。エージェントが安全に外部サービスやシステムと対話できる環境。Copilot Coworkなどのバックエンドとして機能する見込み。</description>
-  </item>
-  <item>
-    <title>Defend against frontier cyber models: Cloudflare's architecture as customer zero</title>
-    <link>https://blog.cloudflare.com/frontier-model-defense/</link>
-    <guid>https://blog.cloudflare.com/frontier-model-defense/</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>CloudflareがAI境界モデルを利用したサイバー攻撃に自社で対抗する設計思想を公開。Claudeなどを防御に活用する実践的なアーキテクチャ。セキュリティとAIの交差点。</description>
-  </item>
-  <item>
-    <title>Claude Code と Codex を使い比べて見えた設計思想の違い</title>
-    <link>https://zenn.dev/tark_ann/articles/e8b09c6db73bfb</link>
-    <guid>https://zenn.dev/tark_ann/articles/e8b09c6db73bfb</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Claude CodeとOpenAI Codexを実際に使い比べた設計思想の比較分析。エージェント連携・コンテキスト管理・出力品質の違いが整理されている。ツール選定の参考に。</description>
-  </item>
-  <item>
-    <title>Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
-    <link>https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</link>
-    <guid>https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Microsoft Copilot Coworkが月額固定でなく従量課金であることで話題に。実際の料金体系と想定外の費用リスクをまとめた記事。導入前に必読。</description>
-  </item>
-  <item>
-    <title>Claude Code新機能「Dynamic Workflows」を徹底検証！</title>
-    <link>https://chatgpt-lab.com/n/nb31ebfac8cbc</link>
-    <guid>https://chatgpt-lab.com/n/nb31ebfac8cbc</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Claude Codeの最新機能Dynamic Workflowsの実装パターンを詳検証。ループ・条件分岐・人間確認フローの設計方法が明らかになる。現在のRoutine設計改善に直結する内容。</description>
-  </item>
-  <item>
-    <title>Claude Code で チーム開発ルール を「覚えるもの」から「自動で守るもの」に変える</title>
-    <link>https://qiita.com/rairaii/items/a1b622ff1faf4ca34231</link>
-    <guid>https://qiita.com/rairaii/items/a1b622ff1faf4ca34231</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>CLAUDE.mdやスラッシュコマンドでルールを自動適用する実践手法。Claude Codeの記憶ルールをコードベースに埋め込む工夫が満載。</description>
-  </item>
-  <item>
-    <title>入門から実践 -「ループエンジニアリング」</title>
-    <link>https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8</link>
-    <guid>https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>AIエージェントの自律ループ設計の基礎から実践まで解説。実行・評価・修正のサイクルをどう実装するか。Claude Code Routineのような定期実行設計の参考に。</description>
+    <title>仕事が劇的に捗るClaudeの隠れた実力派ツール10選</title>
+    <link>https://www.lifehacker.jp/article/2606-10-hacks-every-claude-user-should-know/</link>
+    <guid isPermaLink="true">https://www.lifehacker.jp/article/2606-10-hacks-every-claude-user-should-know/</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[プロジェクト機能・カスタム命令・アーティファクトなど、知らないと損するClaude実力派機能10選を実用目線で解説。]]></description>
   </item>
   <item>
     <title>コーディングエージェントを「ループ」で動かす — もう一段自動化したい人のための設計入門</title>
     <link>https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</link>
-    <guid>https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</guid>
-    <pubDate>Sun, 21 Jun 2026 09:37:23 +0900</pubDate>
-    <description>Claude Codeをループ実行させる設計パターン入門。単一タスクだけでなく複数ステップを自律的に回す際の構造化の考え方。</description>
+    <guid isPermaLink="true">https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[AIエージェントを反復ループで制御し、タスクが完了するまで自律的に動かす設計パターンを解説した実践入門。]]></description>
+  </item>
+  <item>
+    <title>入門から実践 - ループエンジニアリング</title>
+    <link>https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8</link>
+    <guid isPermaLink="true">https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[LLMを使った反復ループ処理の実装パターンを、入門から応用まで体系的にまとめた実践ガイド。]]></description>
+  </item>
+  <item>
+    <title>ターミナルにAIエンジニアが来た：Codex CLI 完全入門ガイド</title>
+    <link>https://qiita.com/lhjjjk4/items/5ba0e9330cdb3c16b8c8</link>
+    <guid isPermaLink="true">https://qiita.com/lhjjjk4/items/5ba0e9330cdb3c16b8c8</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[OpenAI Codex CLIのセットアップから実践的な活用方法まで網羅した、初心者向け完全入門ガイド。]]></description>
+  </item>
+  <item>
+    <title>ケイラボAIラジオ Windows版開発記 — 設計さえ正しければ、移植はAIの独壇場だった</title>
+    <link>https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e</link>
+    <guid isPermaLink="true">https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[既存のAIラジオアプリをWindows向けにAI全面活用で移植した開発体験レポート。設計の重要性を実感した記録。]]></description>
+  </item>
+  <item>
+    <title>AI エージェントフレームワーク eve を試してみた</title>
+    <link>https://azukiazusa.dev/blog/ai-agent-framework-eve/</link>
+    <guid isPermaLink="true">https://azukiazusa.dev/blog/ai-agent-framework-eve/</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[ブラウザ上でAIエージェントをビジュアルに組み立てられるフレームワーク「eve」の機能と使い勝手を実際に検証。]]></description>
+  </item>
+  <item>
+    <title>「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識</title>
+    <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</link>
+    <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[AI活用が前提となった現場でエンジニアに求められる基礎スキルと常識の変化を、現役エンジニアが語る。]]></description>
+  </item>
+  <item>
+    <title>Gemma 4が完全無料で商用OKな理由——Googleのオープン戦略を解説</title>
+    <link>https://qiita.com/kinamocchi_tech/items/b5f97cc34260bf59c539</link>
+    <guid isPermaLink="true">https://qiita.com/kinamocchi_tech/items/b5f97cc34260bf59c539</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[GoogleがGemma 4を商用利用可能な完全無料モデルとして公開した背景と、オープンソース戦略の狙いを解説。]]></description>
+  </item>
+  <item>
+    <title>Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法</title>
+    <link>https://zenn.dev/sta/articles/2026-06-20-vscode-scb</link>
+    <guid isPermaLink="true">https://zenn.dev/sta/articles/2026-06-20-vscode-scb</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>おすすめ</category>
+    <description><![CDATA[VSCode拡張「vscode-scb」でCosense（旧Scrapbox）記法を使ったノート編集が可能に。Obsidianより軽快なアウトライン編集を紹介。]]></description>
+  </item>
+  <item>
+    <title>Claude Codeをどのようにキャッチアップしているか</title>
+    <link>https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka</link>
+    <guid isPermaLink="true">https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>作業関連</category>
+    <description><![CDATA[急速に進化するClaude Codeの情報収集・活用方法について、実践者がまとめたスライド資料。]]></description>
+  </item>
+  <item>
+    <title>捨てるつもりで作ったシステムが、本稼働している — 自治体がVibe Codingで書かない窓口を内製しOSSとして公開するまで</title>
+    <link>https://note.com/memuro_dx_oss/n/nf982351d30ef</link>
+    <guid isPermaLink="true">https://note.com/memuro_dx_oss/n/nf982351d30ef</guid>
+    <pubDate>Sun, 21 Jun 2026 03:00:00 +0900</pubDate>
+    <category>作業関連</category>
+    <description><![CDATA[北海道芽室町がVibe Codingで申請窓口システムを内製・本番稼働させ、OSSとして公開した実践レポート。]]></description>
   </item>
   </channel>
 </rss>
